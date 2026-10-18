@@ -1,0 +1,3 @@
+- The user is a 20-year-old Computer Science student at AGMR College of Engineering and Technology.
+- The user has applied for MITACS Canada.
+- The user's name is Balaji Bhagirath Bodducherla.
